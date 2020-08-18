@@ -1,0 +1,1 @@
+[{"id": 1, "type": "http", "urls": ["onestop.infosysapps.com/", "cloudinsights-staging.ad.infosys.com:5601/"], "schedule": "@every 10s"}, {"type": "http", "urls": "ongc.com", "schedule": "@every 10s", "tags": "tag1", "id": 2}]
